@@ -18,7 +18,7 @@
 
    ```bash
    git clone https://github.com/username/UpTrader.git
-   cd django-tree-menu
+   cd UpTrader
    ```
 
 2. Установите зависимости (рекомендуется использовать виртуальное окружение):
