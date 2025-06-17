@@ -35,9 +35,9 @@
 
 5. Создайте суперпользователя: Он понадобится для доступа к админ-панели.
 
-  ```bash
-  python manage.py createsuperuser
-  ```
+     ```bash
+     python manage.py createsuperuser
+     ```
 
 6. Запустите сервер:
    
